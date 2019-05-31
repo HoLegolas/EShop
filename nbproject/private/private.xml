@@ -2,6 +2,12 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/LAKE/Documents/NetBeansProjects/EShop/src/java/connect/MySQLConnection.java</file>
+            <file>file:/C:/Users/LAKE/Documents/NetBeansProjects/EShop/src/java/dao/ProductDAO.java</file>
+            <file>file:/C:/Users/LAKE/Documents/NetBeansProjects/EShop/src/java/model/Category.java</file>
+            <file>file:/C:/Users/LAKE/Documents/NetBeansProjects/EShop/src/java/model/Product.java</file>
+            <file>file:/C:/Users/LAKE/Documents/NetBeansProjects/EShop/src/java/dao/CategoryDAO.java</file>
+        </group>
     </open-files>
 </project-private>
